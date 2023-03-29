@@ -5,7 +5,7 @@ public class Ex0329_1 {
         for ( i = 1; i < 10; i++){
             System.out.printf("\n");
             for ( k = 2; k < 10; k++){
-                System.out.printf("%d * %d = %2d ", k, i, k*i);
+                System.out.printf("%dx%d=%2d ", k, i, k*i);
             }
         }
     }
