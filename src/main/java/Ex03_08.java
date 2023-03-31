@@ -1,4 +1,5 @@
 public class Ex03_08 {
+
     public static void main(String[]args) {
         int a, b;
         float c, d;
