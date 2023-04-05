@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex06_14 {
     public static void main(String[] args) {
 

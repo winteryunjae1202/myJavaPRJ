@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex07_10 {
     public static void main(String[] args) {
         int hap = 0;

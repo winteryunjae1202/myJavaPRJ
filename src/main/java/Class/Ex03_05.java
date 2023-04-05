@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex03_05 {
     public static void main(String[] args) {
         System.out.printf("%d\n", 123);

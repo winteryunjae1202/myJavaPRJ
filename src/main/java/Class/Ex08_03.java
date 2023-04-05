@@ -1,3 +1,5 @@
+package Class;
+
 import java.util.Scanner;
 public class Ex08_03 {
     public static void main(String[] args) {

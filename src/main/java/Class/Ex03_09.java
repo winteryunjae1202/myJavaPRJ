@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex03_09 {
     public static void main(String[] args) {
         int a,b,c,d;

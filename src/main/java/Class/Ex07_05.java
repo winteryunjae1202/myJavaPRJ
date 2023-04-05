@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex07_05 {
     public static void main(String[] args) {
         int a = 100;

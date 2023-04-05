@@ -1,3 +1,5 @@
+package Class;
+
 public class Ex03_11 {
     public static void main(String[] args) {
         float a = 0.1234567890123456789012345f;
