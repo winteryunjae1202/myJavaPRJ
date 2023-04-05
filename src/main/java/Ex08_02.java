@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Ex08_02 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int []aa = new int[4];
+        int []aa = new int[4]; //aa라는 배열 생성 배열 안에는 정수 4개의 항이 있음.
         int hap;
 
         System.out.printf("1번째 숫자를 입력하세요 : ");
