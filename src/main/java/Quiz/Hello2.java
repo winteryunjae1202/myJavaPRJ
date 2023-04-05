@@ -1,3 +1,5 @@
+package Quiz;
+
 import java.sql.SQLOutput;
 
 public class Hello2 {

@@ -1,3 +1,5 @@
+package Quiz;
+
 import com.sun.org.apache.bcel.internal.classfile.SourceFile;
 
 public class Ex0330 {

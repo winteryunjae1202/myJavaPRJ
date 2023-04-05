@@ -1,3 +1,5 @@
+package Quiz;
+
 public class Ex0330_1 {
     public static void main(String[] args) {
         int i, k;
