@@ -11,16 +11,20 @@ public class Ex08_04 {
         dd[0] = 100;
         int i;
 
-        for(i = 0; i < 4; i++)
-            System.out.printf("aa[%d] ==> %d\t", i, aa[i]);
+        System.out.println("aa 몇개? : " + aa.length);
+        for(i = 0; i < aa.length; i++){
+            System.out.printf("aa[%d] ==> %d\t", i, aa[i]);}
             System.out.printf("\n");
-            for(i = 0; i < 3; i++)
+        System.out.println("bb 몇개? : " + bb.length);
+            for(i = 0; i < bb.length; i++)
                 System.out.printf("bb[%d] ==> %d\t", i, bb[i]);
                 System.out.printf("\n");
-            for(i = 0; i < 2; i++)
+                System.out.println("cc 몇개? : " + cc.length);
+            for(i = 0; i < cc.length; i++)
                 System.out.printf("cc[%d] ==> %d\t", i, cc[i]);
                 System.out.println();
-                for(i = 0; i < 1; i++)
+                System.out.println("dd 몇개? : " + dd.length);
+                for(i = 0; i < dd.length; i++)
                     System.out.printf("dd[%d] ==> %d\t", i, dd[i]);
                 System.out.println();
     }
