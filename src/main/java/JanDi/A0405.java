@@ -12,7 +12,7 @@ public class A0405 {
         for(i = 0; i < num.length; i++){
             System.out.printf("%d번째 숫자를 입력하세요 : ", i+1);
             num[i] = s.nextInt();}
-        int b = num.length;
+        int b;
         for(b = 0; b < num.length; b++){
             hap = hap + num[b];
         }avg = hap / (float)(n);

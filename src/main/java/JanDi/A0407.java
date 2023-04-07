@@ -28,7 +28,7 @@ public class A0407 {
                         aa[i] = temp;
                     }
                 }
-                System.out.printf("%d", aa[i]);
+                System.out.printf("%d ", aa[i]);
             }
         }
     }

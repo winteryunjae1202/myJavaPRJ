@@ -9,7 +9,7 @@ public class A0406 {
         n = s.nextInt();
         int[] aa = new int[n];
         for (i = 0; i < aa.length; i++) {
-            System.out.printf("%d번째 숫자를 입력하세요 : ", i + 1);
+            //System.out.printf("%d번째 숫자를 입력하세요 : ", i + 1);
             aa[i] = s.nextInt();
         }
         int hap = 0;
