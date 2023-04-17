@@ -6,7 +6,7 @@ public class A0417 {
         int result = 0;
         Scanner s = new Scanner(System.in);
         n = s.nextInt();
-        int arr[] = new int[n];
+        int []arr = new int[n];
         for(int i = 0; i < arr.length; i++){
             arr[i] = s.nextInt();
         }
