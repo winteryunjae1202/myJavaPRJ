@@ -14,7 +14,7 @@ public class A0427 {
             case "-" : System.out.printf("%d %s %d = %d", a, c, b, a-b); break;
             case "*" : System.out.printf("%d %s %d = %d", a, c, b, a*b); break;
             case "/" : System.out.printf("%d %s %d = %d", a, c, b, a/b); break;
-            case "%" : System.out.printf("%=d %s %d = %d", a, c, b, a%b); break;
+            case "%" : System.out.printf("%d %s %d = %d", a, c, b, a%b); break;
             default : System.out.printf("연산자를 다시 입력하세요.");
         }
     }
