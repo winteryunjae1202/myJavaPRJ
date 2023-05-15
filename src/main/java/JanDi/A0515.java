@@ -6,13 +6,13 @@ public class A0515 {
     public static int aaa(int v1, int v2, int v3){
         int gop = v1 * v2;
         int num = 0;
-        int num1 = 0;
         for(int i = 1; i <= v1; i++){
             if(v1 % i == 0 && v2 % i == 0){
                 num = i;
             }
         }
         int gop1 = gop/num * v3;
+        int num1 = 0;
         for(int i = 1; i <= v3; i++){
             if(gop/num % i == 0 && v3 % i == 0){
                 num1 = i;
